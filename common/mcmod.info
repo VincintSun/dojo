@@ -1,0 +1,20 @@
+[
+{
+  "modid": "dojo",
+  "name": "Minecraft Dojo",
+  "description": "A learning mod for Minecraft Forge",
+  "version": "0.0.1",
+  "url": "https://github.com/VincintSun/dojo/",
+  "updateUrl": "",
+  "authorList": [
+    "Vincint Sun"
+  ],
+  "credits": "pahimar, vswe, and the tutorial makers on youtube, forge forums, and elsewhere.",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
